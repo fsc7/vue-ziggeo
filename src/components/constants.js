@@ -55,6 +55,7 @@ export const ziggeoRecorderAttributesPropTypes = {
         default: true
     },
     'flip-camera': Boolean,
+    'camerafacefront': Boolean,
     'early-rerecord': Boolean,
     'sharevideo': Array,
 
